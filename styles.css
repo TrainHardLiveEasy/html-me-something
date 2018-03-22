@@ -1,0 +1,33 @@
+main {background-color:black;}
+
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    border:10px solid purple;
+    margin-right:275px;
+    margin-left:275px;
+    margin-top:100px;
+    margin-bottom:100px;
+    background-color:yellow;}
+
+h {font-family:cursive;}
+
+#heada {margin-left:100px;
+    color:purple;
+    padding: 50px 50px 50px 50px;
+    font-family:cursive;
+    font-size:50px;}
+
+p.paragraph {text-indent:50px;
+    margin-left:100px;
+    margin-right:100px;
+    color:yellow;
+    font-size:25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+img {border:10px solid purple;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    width:50%;
+    height:auto;}
+
